@@ -1,0 +1,3 @@
+This project specifically converts .HEIC image files to .JPG files with the heic2jpg.py script.
+
+The img-to-pdf.py script dumps the .JPG images in sequential order into .PDF file named combined.
